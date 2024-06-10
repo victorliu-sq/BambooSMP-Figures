@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T00:58:23.168Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="8EawxyBrmAp2t3f6AQPd" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T00:59:38.866Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hNwI4EGWrQbJqP2qUEaw" version="24.5.2" type="github">
   <diagram name="Page-1" id="m4M4dx9sahxK60scS4Uc">
-    <mxGraphModel dx="808" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="924" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -909,6 +909,18 @@
         </mxCell>
         <mxCell id="Pt9WqsQkKKoT_3nrHR7m-313" value="S" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#999999;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="590" y="781" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt9WqsQkKKoT_3nrHR7m-314" value="P" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="930" y="670" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt9WqsQkKKoT_3nrHR7m-315" value="S" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#999999;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="930" y="720" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt9WqsQkKKoT_3nrHR7m-317" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;: M1, M2, M3, M4, and M5 proposes to W1, then M2 gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="946" y="658" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt9WqsQkKKoT_3nrHR7m-318" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;: M1, M2, M3, M4, and M5 proposes to W1, then M2 gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="946" y="709" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
