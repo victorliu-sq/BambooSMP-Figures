@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T23:48:35.300Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uiVpnv1xazxf-0ybDJ72" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T23:50:03.431Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="owWN1O-grynqYfT1BhWj" version="24.6.4" type="github">
   <diagram name="Page-1" id="vMLTytokWvOrCjo9vSvv">
     <mxGraphModel dx="3723" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="kaPdP8XmIXaBj53WBzwW-6" value="M1" style="shape=tableRow;horizontal=0;startSize=80;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" parent="kaPdP8XmIXaBj53WBzwW-1" vertex="1">
           <mxGeometry y="80" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kaPdP8XmIXaBj53WBzwW-7" value="W2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;fillColor=none;fontSize=14;" parent="kaPdP8XmIXaBj53WBzwW-6" vertex="1">
+        <mxCell id="kaPdP8XmIXaBj53WBzwW-7" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;W2&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;fillColor=none;fontSize=14;" parent="kaPdP8XmIXaBj53WBzwW-6" vertex="1">
           <mxGeometry x="80" width="80" height="40" as="geometry">
             <mxRectangle width="80" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -121,7 +121,7 @@
         <mxCell id="kaPdP8XmIXaBj53WBzwW-33" value="W2" style="shape=tableRow;horizontal=0;startSize=80;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" parent="kaPdP8XmIXaBj53WBzwW-24" vertex="1">
           <mxGeometry y="120" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kaPdP8XmIXaBj53WBzwW-34" value="Rank2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;" parent="kaPdP8XmIXaBj53WBzwW-33" vertex="1">
+        <mxCell id="kaPdP8XmIXaBj53WBzwW-34" value="&lt;b&gt;&lt;font color=&quot;#6666ff&quot;&gt;Rank2&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;" parent="kaPdP8XmIXaBj53WBzwW-33" vertex="1">
           <mxGeometry x="80" width="80" height="40" as="geometry">
             <mxRectangle width="80" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -178,7 +178,7 @@
         <mxCell id="FKIhmJ0GrVmApkQtwuMD-100" value="M1" style="shape=tableRow;horizontal=0;startSize=80;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" parent="FKIhmJ0GrVmApkQtwuMD-95" vertex="1">
           <mxGeometry y="80" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FKIhmJ0GrVmApkQtwuMD-101" value="W2, Rank2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;fillColor=none;fontSize=14;" parent="FKIhmJ0GrVmApkQtwuMD-100" vertex="1">
+        <mxCell id="FKIhmJ0GrVmApkQtwuMD-101" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;W2&lt;/font&gt;,&lt;font color=&quot;#6600cc&quot;&gt; &lt;/font&gt;&lt;font color=&quot;#6666ff&quot;&gt;Rank2&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;fillColor=none;fontSize=14;" parent="FKIhmJ0GrVmApkQtwuMD-100" vertex="1">
           <mxGeometry x="80" width="80" height="40" as="geometry">
             <mxRectangle width="80" height="40" as="alternateBounds" />
           </mxGeometry>
