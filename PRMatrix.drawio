@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T23:44:11.740Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0wP-DSgNIFGq16gT285N" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T23:44:48.435Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vU6Ex3Z_zMGc9venz1GJ" version="24.6.4" type="github">
   <diagram name="Page-1" id="vMLTytokWvOrCjo9vSvv">
     <mxGraphModel dx="3843" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -280,13 +280,13 @@
         <mxCell id="xlXXRtrmLb0q4SKdg70j-36" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeWidth=8;strokeColor=#6600CC;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="559.81" y="120.62" width="80.19" height="39.75" as="geometry" />
         </mxCell>
-        <mxCell id="xlXXRtrmLb0q4SKdg70j-45" value="M1’s top choice is W2." style="text;whiteSpace=wrap;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="80.75" width="170" height="40" as="geometry" />
+        <mxCell id="xlXXRtrmLb0q4SKdg70j-45" value="1.M1’s top choice is W2." style="text;whiteSpace=wrap;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="81" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xlXXRtrmLb0q4SKdg70j-47" value="When M1 proposes to W2, he needs to know his rank on W2’s preference list.&#xa;&#xa;This requires accessing the entry (W2, M1) in the women’s rank matrix." style="text;whiteSpace=wrap;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="xlXXRtrmLb0q4SKdg70j-47" value="2. When M1 proposes to W2, he needs to know his rank on W2’s preference list.&#xa;&#xa;This requires accessing the entry (W2, M1) in the women’s rank matrix." style="text;whiteSpace=wrap;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-240" y="340" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xlXXRtrmLb0q4SKdg70j-48" value="Since M1 is ranked 2nd on W2’s preference list, W2 and Rank 2 will be stored together in the PRMatrix. &#xa;&#xa;This entry will inform M1 that when he proposes to his top choice, he should propose to W2 and that he is ranked 2nd on W2’s preference list." style="text;whiteSpace=wrap;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="xlXXRtrmLb0q4SKdg70j-48" value="3. Since M1 is ranked 2nd on W2’s preference list, W2 and Rank 2 will be stored together in the PRMatrix. &#xa;&#xa;This entry will inform M1 that when he proposes to his top choice, he should propose to W2 and that he is ranked 2nd on W2’s preference list." style="text;whiteSpace=wrap;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="650" y="270.07" width="400" height="120" as="geometry" />
         </mxCell>
       </root>
