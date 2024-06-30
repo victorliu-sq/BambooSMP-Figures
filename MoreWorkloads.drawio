@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T21:15:27.087Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1Fx1we_5AoZ_O_Kb4DxP" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T21:16:51.207Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xHGw8Ch1dqf2kJvGjOqg" version="24.6.4" type="github">
   <diagram name="Page-1" id="m4M4dx9sahxK60scS4Uc">
-    <mxGraphModel dx="2211" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2862" dy="2469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1869,6 +1869,9 @@
         </mxCell>
         <mxCell id="rn6ubAYqEtZ3MvwYpB0g-29" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;~&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="649.5" y="13" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-2GrPDQ1iTcH9NQGaH-k-1" value="&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;The SMP result is&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 15px; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;(M1, W3), (M2, W1), (M3, W5), (M4, W4), (M5, W2)&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="700.5" y="481.26" width="520" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
