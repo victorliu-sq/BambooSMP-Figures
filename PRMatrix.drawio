@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T23:39:56.463Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Z_Q3FzQhkHcS926tcxcN" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T23:40:20.666Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3u7uFIttrvtlaZfEVLc3" version="24.6.4" type="github">
   <diagram name="Page-1" id="vMLTytokWvOrCjo9vSvv">
-    <mxGraphModel dx="3670" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3843" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,7 +277,7 @@
         <mxCell id="xlXXRtrmLb0q4SKdg70j-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;strokeWidth=0;fillColor=#6666FF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="500" y="150" width="20.25" height="20.25" as="geometry" />
         </mxCell>
-        <mxCell id="xlXXRtrmLb0q4SKdg70j-36" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;strokeColor=#6600CC;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="xlXXRtrmLb0q4SKdg70j-36" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeWidth=8;strokeColor=#6600CC;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="439.81" y="120.12" width="80.19" height="39.75" as="geometry" />
         </mxCell>
         <mxCell id="xlXXRtrmLb0q4SKdg70j-45" value="According to the men’s preference lists, M1’s top choice is W2." style="text;whiteSpace=wrap;fontStyle=1;fontSize=15;" vertex="1" parent="1">
