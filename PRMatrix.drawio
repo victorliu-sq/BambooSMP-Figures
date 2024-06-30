@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T23:44:48.435Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vU6Ex3Z_zMGc9venz1GJ" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T23:46:18.968Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2w6QWLfHueUgmGqDy6F7" version="24.6.4" type="github">
   <diagram name="Page-1" id="vMLTytokWvOrCjo9vSvv">
-    <mxGraphModel dx="3843" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3575" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kaPdP8XmIXaBj53WBzwW-24" value="Women&#39;s Rank Matrix" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;resizeLast=0;resizeLastRow=0;fontStyle=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="160" y="280" width="320" height="200" as="geometry" />
+          <mxGeometry x="120" y="280" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="kaPdP8XmIXaBj53WBzwW-25" value="" style="shape=tableRow;horizontal=0;startSize=80;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" parent="kaPdP8XmIXaBj53WBzwW-24" vertex="1">
           <mxGeometry y="40" width="320" height="40" as="geometry" />
@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FKIhmJ0GrVmApkQtwuMD-95" value="PRMatrixM" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;resizeLast=0;resizeLastRow=0;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="480" y="40.5" width="320" height="199.5" as="geometry" />
+          <mxGeometry x="400" y="40.5" width="320" height="199.5" as="geometry" />
         </mxCell>
         <mxCell id="FKIhmJ0GrVmApkQtwuMD-96" value="" style="shape=tableRow;horizontal=0;startSize=80;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" parent="FKIhmJ0GrVmApkQtwuMD-95" vertex="1">
           <mxGeometry y="40" width="320" height="40" as="geometry" />
@@ -257,28 +257,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xlXXRtrmLb0q4SKdg70j-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#6666FF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="240" y="320.13" width="19.87" height="19.87" as="geometry" />
+          <mxGeometry x="200" y="320.13" width="19.87" height="19.87" as="geometry" />
         </mxCell>
         <mxCell id="xlXXRtrmLb0q4SKdg70j-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#6666FF;strokeWidth=2;endArrow=blockThin;endFill=1;opacity=80;fontSize=14;" edge="1" parent="1" source="xlXXRtrmLb0q4SKdg70j-10" target="xlXXRtrmLb0q4SKdg70j-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xlXXRtrmLb0q4SKdg70j-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;strokeColor=#6666FF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="160" y="400" width="20" height="20" as="geometry" />
+          <mxGeometry x="120" y="400" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xlXXRtrmLb0q4SKdg70j-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;strokeColor=#6666FF;strokeWidth=4;fontSize=14;" edge="1" parent="1" source="xlXXRtrmLb0q4SKdg70j-11" target="xlXXRtrmLb0q4SKdg70j-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xlXXRtrmLb0q4SKdg70j-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;strokeWidth=0;fillColor=#6666FF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="239.81" y="400" width="20.25" height="20.25" as="geometry" />
+          <mxGeometry x="199.81" y="400" width="20.25" height="20.25" as="geometry" />
         </mxCell>
         <mxCell id="xlXXRtrmLb0q4SKdg70j-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;strokeWidth=0;fillColor=#FF3333;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="550" y="121" width="19.5" height="19.5" as="geometry" />
+          <mxGeometry x="470" y="121" width="19.5" height="19.5" as="geometry" />
         </mxCell>
         <mxCell id="xlXXRtrmLb0q4SKdg70j-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;strokeWidth=0;fillColor=#6666FF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="620" y="150.5" width="20.25" height="20.25" as="geometry" />
+          <mxGeometry x="540" y="150.5" width="20.25" height="20.25" as="geometry" />
         </mxCell>
         <mxCell id="xlXXRtrmLb0q4SKdg70j-36" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeWidth=8;strokeColor=#6600CC;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="559.81" y="120.62" width="80.19" height="39.75" as="geometry" />
+          <mxGeometry x="479.80999999999995" y="120.62" width="80.19" height="39.75" as="geometry" />
         </mxCell>
         <mxCell id="xlXXRtrmLb0q4SKdg70j-45" value="1.M1’s top choice is W2." style="text;whiteSpace=wrap;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-200" y="81" width="190" height="40" as="geometry" />
@@ -287,7 +287,7 @@
           <mxGeometry x="-240" y="340" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xlXXRtrmLb0q4SKdg70j-48" value="3. Since M1 is ranked 2nd on W2’s preference list, W2 and Rank 2 will be stored together in the PRMatrix. &#xa;&#xa;This entry will inform M1 that when he proposes to his top choice, he should propose to W2 and that he is ranked 2nd on W2’s preference list." style="text;whiteSpace=wrap;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="650" y="270.07" width="400" height="120" as="geometry" />
+          <mxGeometry x="560" y="280" width="400" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
