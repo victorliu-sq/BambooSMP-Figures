@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T05:17:01.813Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wO6YcOV2U6CJi9h3K3Zq" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T05:19:14.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="p6QrBOk5UDokGunXjc5F" version="24.6.4" type="github">
   <diagram name="Page-1" id="m4M4dx9sahxK60scS4Uc">
-    <mxGraphModel dx="2716" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5332" dy="2869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1866,6 +1866,15 @@
         </mxCell>
         <mxCell id="RjNNwrJmmEQurk8_z1cZ-90" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;The stable matching is&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(M1, W1), (M2, W2), (M3, W3), (M4, W4), (M5, W5)&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="680" y="-316.5" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjNNwrJmmEQurk8_z1cZ-92" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;forming matching: (M2, W1) (M3, W2)&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="679.5" y="720" width="360" height="21.57" as="geometry" />
+        </mxCell>
+        <mxCell id="RjNNwrJmmEQurk8_z1cZ-93" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;forming matching: (M1, W4) (M4, W3)&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="679.5" y="800" width="360" height="21.57" as="geometry" />
+        </mxCell>
+        <mxCell id="RjNNwrJmmEQurk8_z1cZ-94" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;forming matching: (M5, W5)&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="680" y="870.82" width="360" height="21.57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
