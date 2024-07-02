@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T22:05:06.654Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="qtBQM6C19ucWkE4OeTBj" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T22:05:38.449Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="trL4p_SCxmyML9V1C_lS" version="24.6.4" type="github">
   <diagram name="Page-1" id="m4M4dx9sahxK60scS4Uc">
-    <mxGraphModel dx="3169" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6683" dy="3379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -716,7 +716,7 @@
           <mxGeometry x="-460" y="-300.5" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-1115" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;Congested Case&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="81.5" width="160" height="80" as="geometry" />
+          <mxGeometry x="-460" y="45.51" width="160" height="148.5" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-1116" value="P1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fillColor=#000000;fontColor=#ffffff;gradientColor=#4D4D4D;gradientDirection=radial;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-240" y="147.63" width="24" height="24" as="geometry" />
@@ -1475,7 +1475,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-1306" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;Random Case&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="523.33" width="160" height="80" as="geometry" />
+          <mxGeometry x="-460" y="511.00000000000006" width="160" height="146.67" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-1307" value="Women&#39;s Preference Lists" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;resizeLast=0;resizeLastRow=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="200" y="420" width="440" height="280" as="geometry" />
