@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T21:10:13.194Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-ShhkL5z51gzy6rmnonw" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T21:11:22.090Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9tq9aeIUb55m1hZkPLFe" version="24.6.4" type="github">
   <diagram name="Page-1" id="m4M4dx9sahxK60scS4Uc">
-    <mxGraphModel dx="4272" dy="2469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4080" dy="2397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,19 +176,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-38" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;At the beginning step, M1, M2, M3, M4, and M5 all propose to W1 in parallel. W1 accepts the proposal from M2, her highest preference.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="742.5" y="-36" width="737.5" height="30" as="geometry" />
+          <mxGeometry x="734.5" y="-36" width="737.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-39" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;After the beginning step, M2 is paired with W1, and the remaining men—M1, M3, M4, and M5—propose to W2. W2 favors M5 the most, so she accepts his proposal.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="742.5" y="40" width="747.5" height="30" as="geometry" />
+          <mxGeometry x="734.5" y="40" width="747.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-40" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;The remaining free men, M1, M3, and M4, then propose to W3. W3 accepts M1.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="742.5" y="107.76" width="727.5" height="30" as="geometry" />
+          <mxGeometry x="734.5" y="107.76" width="727.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-41" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;Next, M3 and M4 propose to W4, and W4 accepts M4.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="742.5" y="157.01" width="577.5" height="30" as="geometry" />
+          <mxGeometry x="736" y="161.5" width="577.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-42" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;Finally, M3, still free, proposes to W5, who accepts his proposal.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="742.5" y="187.13" width="578.5" height="30" as="geometry" />
+          <mxGeometry x="736.75" y="197.38" width="578.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-43" value="Men&#39;s Preference Lists" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;resizeLast=0;resizeLastRow=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-280" y="-400" width="440" height="280.0000000000002" as="geometry" />
@@ -1749,8 +1749,8 @@
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-419" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-488" y="720" as="sourcePoint" />
-            <mxPoint x="1322" y="720" as="targetPoint" />
+            <mxPoint x="-480.5" y="800" as="sourcePoint" />
+            <mxPoint x="1329.5" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-420" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
