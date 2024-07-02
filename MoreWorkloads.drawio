@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T21:16:23.435Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="eZFm8QHIbRsLD3e2bcF9" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T21:18:46.842Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KCrohaQJ7w5eS4zsPqXa" version="24.6.4" type="github">
   <diagram name="Page-1" id="m4M4dx9sahxK60scS4Uc">
-    <mxGraphModel dx="2996" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6151" dy="3178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,21 +174,6 @@
           <mxGeometry x="359" width="81" height="41" as="geometry">
             <mxRectangle width="81" height="41" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-38" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;At the beginning step, M1, M2, M3, M4, and M5 all propose to W1 in parallel. W1 accepts the proposal from M2, her highest preference.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="734.5" y="-36" width="737.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-39" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;After the beginning step, M2 is paired with W1, and the remaining men—M1, M3, M4, and M5—propose to W2. W2 favors M5 the most, so she accepts his proposal.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="734.5" y="40" width="747.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-40" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;The remaining free men, M1, M3, and M4, then propose to W3. W3 accepts M1.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="734.5" y="107.76" width="727.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-41" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;Next, M3 and M4 propose to W4, and W4 accepts M4.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="736" y="161.5" width="577.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-42" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;Finally, M3, still free, proposes to W5, who accepts his proposal.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="736.75" y="197.38" width="578.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-43" value="Men&#39;s Preference Lists" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;resizeLast=0;resizeLastRow=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-280" y="-400" width="440" height="280.0000000000002" as="geometry" />
@@ -723,15 +708,6 @@
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-159" value="P5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#FF0000;fontColor=#FFFFFF;fillStyle=solid;strokeWidth=1;fontStyle=1;gradientColor=#990000;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="242" y="227.26" width="24" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-160" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;At the beginning step, M1, M2, M3, M4, and M5 propose to women in the first group, W1 and W2. M1 and M2 are accepted by W1 and W2, respectively.&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="736" y="360" width="738.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-161" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;After the beginning step, three men remain free: M3, M4, and M5. They continue to propose to their next preferences, which include W1 and W2. M4 and M5 are rejected, but M3 is accepted by W2, resulting in M2 becoming free again.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="736.75" y="433" width="738.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-162" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;After that, two men remain free: M1 and M4. M4 proposes to W3 and is paired. M1 proposes to W2 but is rejected.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="736.75" y="565.62" width="738.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-163" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;Perfect Case&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-460" y="-660.25" width="160" height="80" as="geometry" />
@@ -1321,12 +1297,6 @@
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-317" value="P1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#000000;fontColor=#ffffff;fontStyle=1;gradientColor=#4D4D4D;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="560.5" y="-190" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-318" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;Proposals are made by all men and accepted by women W1, W2, and W3 in parallel at the beginning step.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;Meanwhile, W4 first accepted M4, but later rejected him and accepted M5.&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="736.75" y="-364.5" width="578.5" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-319" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;After the beginning step, the remaining operations are sequential,&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;focusing solely on M4 as he continued making proposals until one was accepted.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="741.5" y="-280" width="578.5" height="57" as="geometry" />
-        </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-320" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480" y="320" as="sourcePoint" />
@@ -1744,9 +1714,6 @@
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-417" value="P5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#FF0000;fontColor=#FFFFFF;fillStyle=solid;strokeWidth=1;fontStyle=1;gradientColor=#990000;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="695.5" y="279.37" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-418" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;Proposals are made by all men and accepted by all women in parallel at the beginning step.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;The final SMP pairs are&amp;nbsp;&lt;span style=&quot;font-size: 20px; background-color: initial; font-weight: normal;&quot;&gt;(M1, W1), (M2, W2), (M3, W3), (M4, W4), (M5, W5).&lt;/span&gt;&amp;nbsp;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="736.75" y="-697.25" width="703.25" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-419" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-485" y="840" as="sourcePoint" />
@@ -1785,9 +1752,6 @@
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-429" value="S16" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#FF0000;fontColor=#FFFFFF;gradientColor=#990000;fillStyle=solid;strokeWidth=1;fontStyle=1;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="695.5" y="-170.25" width="24" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-430" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;The final SMP pairs are&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(M1, W4), (M2, W1), (M3, W2), (M4, W3), (M5, W5).&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="741.5" y="-193" width="520" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-431" value="P2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#000000;fontColor=#ffffff;gradientColor=#4D4D4D;gradientDirection=radial;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="686.9400000000002" width="24" height="24" as="geometry" />
@@ -1855,9 +1819,6 @@
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-452" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;~&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="683" y="-270" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-453" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;The SMP result is&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(M1, W3), (M2, W1), (M3, W5), (M4, W4), (M5, W2)&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="733.5" y="260" width="637.5" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-454" value="P1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#000000;fontColor=#ffffff;strokeWidth=1;perimeterSpacing=1;gradientColor=#4D4D4D;gradientDirection=radial;fontStyle=1;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="699" y="363" width="24" height="24" as="geometry" />
         </mxCell>
@@ -1888,20 +1849,59 @@
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-463" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;~&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="691" y="649.33" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-464" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;Next, M2 proposes to W1 and is accepted, making M1 free. M4 and M5 then move to W4 in the second group, with M5 getting accepted.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="736" y="500.57" width="738.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-465" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;In the following steps, only one man remains free and he has to make proposals in serial. M1 proposes to W3 and W4, getting rejected by W3 but accepted by W4, making M5 free again. Sequentially, M5 proposes to W3 and W5, getting rejected by W3 but accepted by W5.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="736.75" y="656.94" width="717.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-466" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;The SMP result is (M1, W4), (M2, W1), (M3, W2), (M4, W3), (M5. W5)&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="736.75" y="750.92" width="640.5" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-467" value="S2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#FF0000;fontColor=#FFFFFF;fontStyle=1;fillStyle=solid;strokeWidth=1;gradientColor=#990000;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="665.5" y="768.5100000000001" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-468" value="S4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#FF0000;fontColor=#FFFFFF;fillStyle=solid;strokeWidth=1;fontStyle=1;gradientColor=#990000;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="696.5" y="768.5100000000003" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-472" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;At the beginning step, M1, M2, M3, M4, and M5 all propose to W1 in parallel. W1 accepts the proposal from M2, her highest preference.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="-36" width="737.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-473" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;After the beginning step, M2 is paired with W1, and the remaining men—M1, M3, M4, and M5—propose to W2. W2 favors M5 the most, so she accepts his proposal.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="40" width="747.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-474" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;The remaining free men, M1, M3, and M4, then propose to W3. W3 accepts M1.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="107.76" width="727.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-475" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;Next, M3 and M4 propose to W4, and W4 accepts M4.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="161.5" width="734" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-476" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;Finally, M3, still free, proposes to W5, who accepts his proposal.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="197.38" width="578.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-477" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;At the beginning step, M1, M2, M3, M4, and M5 propose to women in the first group, W1 and W2. M1 and M2 are accepted by W1 and W2, respectively.&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="360" width="738.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-478" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;After the beginning step, three men remain free: M3, M4, and M5. They continue to propose to their next preferences, which include W1 and W2. M4 and M5 are rejected, but M3 is accepted by W2, resulting in M2 becoming free again.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="433" width="738.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-479" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;After that, two men remain free: M1 and M4. M4 proposes to W3 and is paired. M1 proposes to W2 but is rejected.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="565.62" width="738.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-480" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;Proposals are made by all men and accepted by women W1, W2, and W3 in parallel at the beginning step.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;Meanwhile, W4 first accepted M4, but later rejected him and accepted M5.&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="-364.5" width="746.5" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-481" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;After the beginning step, the remaining operations are sequential,&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;focusing solely on M4 as he continued making proposals until one was accepted.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="-280" width="706.5" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-482" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;Proposals are made by all men and accepted by all women in parallel at the beginning step.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;The final SMP pairs are&amp;nbsp;&lt;span style=&quot;font-size: 20px; background-color: initial; font-weight: normal;&quot;&gt;(M1, W1), (M2, W2), (M3, W3), (M4, W4), (M5, W5).&lt;/span&gt;&amp;nbsp;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="-697.25" width="746.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-483" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;The final SMP pairs are&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(M1, W4), (M2, W1), (M3, W2), (M4, W3), (M5, W5).&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="-193" width="706.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-484" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;The SMP result is&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(M1, W3), (M2, W1), (M3, W5), (M4, W4), (M5, W2)&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="260" width="637.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-485" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;Next, M2 proposes to W1 and is accepted, making M1 free. M4 and M5 then move to W4 in the second group, with M5 getting accepted.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="500.57" width="738.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-486" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;In the following steps, only one man remains free and he has to make proposals in serial. M1 proposes to W3 and W4, getting rejected by W3 but accepted by W4, making M5 free again. Sequentially, M5 proposes to W3 and W5, getting rejected by W3 but accepted by W5.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="656.94" width="717.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMmOZz2Fe1JZl3nIrY-0-487" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;The SMP result is (M1, W4), (M2, W1), (M3, W2), (M4, W3), (M5. W5)&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="750.92" width="640.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
