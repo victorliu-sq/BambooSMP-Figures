@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T22:02:51.045Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="qtCQ6AWGeG7nUYZefFre" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T22:03:39.876Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="aw4L7vuvzqn5Mg6ZarEq" version="24.6.4" type="github">
   <diagram name="Page-1" id="m4M4dx9sahxK60scS4Uc">
-    <mxGraphModel dx="2779" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3909" dy="2332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1709,7 +1709,7 @@
           <mxGeometry x="699" y="109.5" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-1364" value="P4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fillColor=#000000;fontColor=#ffffff;gradientColor=#4D4D4D;gradientDirection=radial;fontStyle=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="699" y="164.5" width="24" height="24" as="geometry" />
+          <mxGeometry x="699" y="171.63" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-1365" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1814,13 +1814,13 @@
           <mxGeometry x="733.5" y="-36" width="737.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-1397" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;M1, M3, M4, and M5—propose to W2. W2 favors M5 the most, so she accepts his proposal.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="733.5" y="40" width="747.5" height="30" as="geometry" />
+          <mxGeometry x="733.5" y="37" width="747.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-1398" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;M1, M3, and M4, then propose to W3, and W3 accepts M1.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="733.5" y="104.5" width="727.5" height="30" as="geometry" />
+          <mxGeometry x="734.5" y="105" width="727.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-1399" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;M3 and M4 propose to W4, and W4 accepts M4.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="733.5" y="161.5" width="734" height="30" as="geometry" />
+          <mxGeometry x="733.5" y="168.63" width="734" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bMmOZz2Fe1JZl3nIrY-0-1400" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;Finally, M3 proposes to W5, and is accepted.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="734.5" y="224.26" width="578.5" height="30" as="geometry" />
