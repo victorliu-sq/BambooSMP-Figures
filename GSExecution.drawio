@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T12:14:53.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="p08ADWL330vxxikrYH0f" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-11T12:15:46.130Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sBE5nNuM71Xw-TpK1E5P" version="24.6.4" type="github">
   <diagram name="Page-1" id="qnp9Axf9fSBe4Yi9hoHO">
-    <mxGraphModel dx="1564" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1341" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,8 +190,8 @@
         <mxCell id="7GuMput4pS_t5xVzel_N-46" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&amp;nbsp;M1 proposes to W3, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="825" y="580" width="365" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GuMput4pS_t5xVzel_N-47" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Proposal Progress&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="890" y="400" width="275" height="30" as="geometry" />
+        <mxCell id="7GuMput4pS_t5xVzel_N-47" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Proposal Progress&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="902.5" y="395" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GuMput4pS_t5xVzel_N-48" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fillColor=#000000;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="518" width="15" height="15" as="geometry" />
@@ -231,14 +231,14 @@
         </mxCell>
         <mxCell id="7GuMput4pS_t5xVzel_N-63" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="380" as="sourcePoint" />
-            <mxPoint x="1280" y="380" as="targetPoint" />
+            <mxPoint x="120" y="380" as="sourcePoint" />
+            <mxPoint x="1240" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7GuMput4pS_t5xVzel_N-64" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+        <mxCell id="7GuMput4pS_t5xVzel_N-65" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="640" as="sourcePoint" />
-            <mxPoint x="1280" y="640" as="targetPoint" />
+            <mxPoint x="120" y="630" as="sourcePoint" />
+            <mxPoint x="1240" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
