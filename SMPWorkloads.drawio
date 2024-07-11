@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T18:07:01.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Krie-_R9sI20NfwRtNlD" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-11T18:07:33.890Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XjnHCz2uQF0yB3K5KeDN" version="24.6.4" type="github">
   <diagram name="Page-1" id="Z41dUS2Wk9HJYVy0OwEA">
-    <mxGraphModel dx="3979" dy="2756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2506" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -992,13 +992,13 @@
           <mxGeometry x="804" y="241" width="736.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g0JNM9iUR0qo6FFxscxd-451" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;M2 proposes to W1 and is accepted, making M1 free. M4 and M5 then move to W4 in the second group, and M5 is accepted.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="802" y="453.33000000000004" width="738.5" height="30" as="geometry" />
+          <mxGeometry x="801.5" y="446.19000000000005" width="738.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g0JNM9iUR0qo6FFxscxd-452" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;M1 proposes to W3 and W4, getting rejected by W3 but accepted by W4, making M5 free again. Sequentially, M5 proposes to W3 and W5, getting rejected by W3 but accepted by W5.&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="802" y="596.94" width="717.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g0JNM9iUR0qo6FFxscxd-453" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;The final SMP pairs are (M1, W4), (M2, W1), (M3, W2), (M4, W3), (M5. W5).&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="803" y="670" width="685.5" height="30" as="geometry" />
+          <mxGeometry x="801.5" y="670" width="685.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g0JNM9iUR0qo6FFxscxd-454" value="P5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fillColor=#000000;fontColor=#ffffff;fillStyle=solid;strokeWidth=1;fontStyle=1;gradientColor=#4D4D4D;gradientDirection=radial;" parent="1" vertex="1">
           <mxGeometry x="769.5" y="221" width="24" height="24" as="geometry" />
