@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T11:38:46.882Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ccrOlZ0ZrIjrn8pVJ175" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-11T11:39:17.675Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="OdoP6ny1-IeLriOMIi4i" version="24.6.4" type="github">
   <diagram name="Stable Marriage Problem" id="s8X7-v9FQyKSOPcqxur2">
     <mxGraphModel dx="908" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,40 +98,40 @@
           <mxGeometry x="310" y="301" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="vRMMPjkELj0up87t_VbI-142" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fillColor=#000000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="600" y="252.5" width="15" height="15" as="geometry" />
+          <mxGeometry x="600" y="249.5" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="vRMMPjkELj0up87t_VbI-143" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fillColor=#000000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="600" y="282.5" width="15" height="15" as="geometry" />
+          <mxGeometry x="600" y="279.5" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="vRMMPjkELj0up87t_VbI-144" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fillColor=#000000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="600" y="312.5" width="15" height="15" as="geometry" />
+          <mxGeometry x="600" y="309.5" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="vRMMPjkELj0up87t_VbI-145" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fillColor=#000000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="600" y="342.5" width="15" height="15" as="geometry" />
+          <mxGeometry x="600" y="339.5" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="vRMMPjkELj0up87t_VbI-146" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fillColor=#000000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="600" y="372.5" width="15" height="15" as="geometry" />
+          <mxGeometry x="600" y="369.5" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="vRMMPjkELj0up87t_VbI-147" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fillColor=#000000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="600" y="402.5" width="15" height="15" as="geometry" />
+          <mxGeometry x="600" y="399.5" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="vRMMPjkELj0up87t_VbI-148" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;: M1 proposes to W2, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="615" y="240" width="275" height="30" as="geometry" />
+          <mxGeometry x="615" y="237" width="275" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vRMMPjkELj0up87t_VbI-159" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;: M2 proposes to W2, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="615" y="270" width="275" height="30" as="geometry" />
+          <mxGeometry x="615" y="267" width="275" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vRMMPjkELj0up87t_VbI-160" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;: M3 proposes to W2, and gets rejected&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="615" y="300" width="275" height="30" as="geometry" />
+          <mxGeometry x="615" y="297" width="275" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vRMMPjkELj0up87t_VbI-161" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;: M1 proposes to W1, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="615" y="330" width="275" height="30" as="geometry" />
+          <mxGeometry x="615" y="327" width="275" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vRMMPjkELj0up87t_VbI-162" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;: M3 proposes to W1, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="615" y="360" width="275" height="30" as="geometry" />
+          <mxGeometry x="615" y="357" width="275" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vRMMPjkELj0up87t_VbI-163" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;: M1 proposes to W3, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="615" y="390" width="275" height="30" as="geometry" />
+          <mxGeometry x="615" y="387" width="275" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vRMMPjkELj0up87t_VbI-213" value="Women&#39;s Rank Matrix" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;resizeLast=0;resizeLastRow=0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="380" y="240" width="210" height="180" as="geometry" />
