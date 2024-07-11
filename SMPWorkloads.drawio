@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T21:22:49.273Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="l5v92LHhOJmWbnDgXjI7" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-11T21:23:07.883Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="VsTo8xe5t_jtOgRj8vAB" version="24.6.4" type="github">
   <diagram name="Page-1" id="Z41dUS2Wk9HJYVy0OwEA">
-    <mxGraphModel dx="4370" dy="2963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4873" dy="3229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -956,7 +956,7 @@
           <mxGeometry x="1010" y="195.25" width="1335" height="57" as="geometry" />
         </mxCell>
         <mxCell id="g0JNM9iUR0qo6FFxscxd-448" value="&lt;p style=&quot;font-size: 36px;&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;Proposals are made by all men and accepted by all women in parallel at the beginning step.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 36px;&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;The final SMP pairs are&amp;nbsp;&lt;span style=&quot;font-size: 36px; background-color: initial;&quot;&gt;(M1, W1), (M2, W2), (M3, W3), (M4, W4), and (M5, W5).&lt;/span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=36;fontColor=default;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1010" y="-517.5" width="1310" height="110" as="geometry" />
+          <mxGeometry x="1010" y="-517.5" width="1320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="g0JNM9iUR0qo6FFxscxd-449" value="&lt;p style=&quot;font-size: 36px;&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;The final SMP matching:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;(M1, W4), (M2, W1), (M3, W2), (M4, W3), and (M5, W5).&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=36;fontColor=default;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1010" y="300" width="1310" height="30" as="geometry" />
