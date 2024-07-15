@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T04:37:22.051Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Vjn423Wl_tyBSENAfMT_" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T04:37:43.019Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5jRbkGYB0hqUNCD9WK5o" version="24.6.5" type="github">
   <diagram name="Page-1" id="hLBeSpaL_WLC4d95S9IL">
     <mxGraphModel dx="2091" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,43 +11,43 @@
           <mxGeometry x="520" y="427.25" width="205.09" height="180" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-38" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#000000;fontColor=#ffffff;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290.47" y="678.25" width="20" height="20" as="geometry" />
+          <mxGeometry x="290.47" y="668.25" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-39" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#000000;fontColor=#ffffff;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290.47" y="708.25" width="20" height="20" as="geometry" />
+          <mxGeometry x="290.47" y="698.25" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-40" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#000000;fontColor=#ffffff;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290.47" y="738.25" width="20" height="20" as="geometry" />
+          <mxGeometry x="290.47" y="728.25" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-41" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#000000;fontColor=#ffffff;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290.47" y="768.25" width="20" height="20" as="geometry" />
+          <mxGeometry x="290.47" y="758.25" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-42" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#000000;fontColor=#ffffff;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290.47" y="798.25" width="20" height="20" as="geometry" />
+          <mxGeometry x="290.47" y="788.25" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-43" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#000000;fontColor=#ffffff;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290.47" y="828.25" width="20" height="20" as="geometry" />
+          <mxGeometry x="290.47" y="818.25" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-44" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&amp;nbsp;M1 proposes to W2, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="315.47" y="673.25" width="405" height="30" as="geometry" />
+          <mxGeometry x="315.47" y="663.25" width="405" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-45" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&amp;nbsp;M2 proposes to W2, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="315.47" y="703.25" width="365" height="30" as="geometry" />
+          <mxGeometry x="315.47" y="693.25" width="365" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-46" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&amp;nbsp;M3 proposes to W2, and gets rejected&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="315.47" y="734.75" width="365" height="30" as="geometry" />
+          <mxGeometry x="315.47" y="724.75" width="365" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-47" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&amp;nbsp;M1 proposes to W1, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="315.47" y="763.25" width="365" height="30" as="geometry" />
+          <mxGeometry x="315.47" y="753.25" width="365" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-48" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&amp;nbsp;M3 proposes to W1, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="315.47" y="793.25" width="365" height="30" as="geometry" />
+          <mxGeometry x="315.47" y="783.25" width="365" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-49" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&amp;nbsp;M1 proposes to W3, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="315.47" y="823.25" width="365" height="30" as="geometry" />
+          <mxGeometry x="315.47" y="813.25" width="365" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-50" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;GS Execution Progress&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="370.47" y="640" width="230" height="30" as="geometry" />
+          <mxGeometry x="370.47" y="630" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-68" value="W1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=right;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="329.99999999999994" y="468.5" width="40.09" height="40" as="geometry" />
@@ -189,8 +189,8 @@
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-121" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="870" as="sourcePoint" />
-            <mxPoint x="760" y="870" as="targetPoint" />
+            <mxPoint x="180" y="860" as="sourcePoint" />
+            <mxPoint x="760" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
