@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T05:03:40.660Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="auT-pno6Yi6n-H4F0rO8" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-20T05:04:57.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3TbAJuyrGw07jYOI34ax" version="24.7.2" type="github">
   <diagram name="Page-1" id="hLBeSpaL_WLC4d95S9IL">
     <mxGraphModel dx="1641" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,40 +11,40 @@
           <mxGeometry x="657.45" y="437.25" width="205.09" height="180" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-38" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#000000;fontColor=#ffffff;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="260.47" y="178.25" width="20" height="20" as="geometry" />
+          <mxGeometry x="240.47000000000003" y="178.25" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-39" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#000000;fontColor=#ffffff;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="260.47" y="208.25" width="20" height="20" as="geometry" />
+          <mxGeometry x="240.47000000000003" y="208.25" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-40" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#000000;fontColor=#ffffff;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="260.47" y="238.25" width="20" height="20" as="geometry" />
+          <mxGeometry x="240.47000000000003" y="238.25" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-41" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#000000;fontColor=#ffffff;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="260.47" y="269.75" width="20" height="20" as="geometry" />
+          <mxGeometry x="240.47000000000003" y="269.75" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-42" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#000000;fontColor=#ffffff;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="260.47" y="301.5" width="18.25" height="18.25" as="geometry" />
+          <mxGeometry x="240.47000000000003" y="301.5" width="18.25" height="18.25" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-43" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#000000;fontColor=#ffffff;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="260.47" y="329.75" width="20" height="20" as="geometry" />
+          <mxGeometry x="240.47000000000003" y="329.75" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-44" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&amp;nbsp;M1 proposes to W2, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="285.47" y="173.25" width="384.53" height="30" as="geometry" />
+          <mxGeometry x="265.47" y="173.25" width="364.53" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-45" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&amp;nbsp;M2 proposes to W2, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="285.47" y="203.25" width="384.53" height="30" as="geometry" />
+          <mxGeometry x="265.47" y="203.25" width="364.53" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-46" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&amp;nbsp;M3 proposes to W2, and gets rejected&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="285.47" y="234.75" width="394.53" height="30" as="geometry" />
+          <mxGeometry x="265.47" y="234.75" width="354.53" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-47" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&amp;nbsp;M1 proposes to W1, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="285.47" y="264.75" width="394.53" height="30" as="geometry" />
+          <mxGeometry x="265.47" y="264.75" width="364.53" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-48" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&amp;nbsp;M3 proposes to W1, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="285.47" y="294.75" width="414.53" height="30" as="geometry" />
+          <mxGeometry x="265.47" y="294.75" width="364.53" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-49" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&amp;nbsp;M1 proposes to W3, and gets accepted&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="285.47" y="324.75" width="404.53" height="30" as="geometry" />
+          <mxGeometry x="265.47" y="324.75" width="364.53" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XWL8p9wdiY37lmxaxb0n-68" value="W1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=right;verticalAlign=bottom;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="399.99999999999994" y="478.5" width="40.09" height="40" as="geometry" />
@@ -238,8 +238,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tuGhbpV8Ae8U0IzuTpyk-71" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Initialization&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
-          <mxGeometry x="980" y="354.75" width="170" height="60" as="geometry" />
+        <mxCell id="tuGhbpV8Ae8U0IzuTpyk-71" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Initialization&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="349.75" width="140" height="34.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
