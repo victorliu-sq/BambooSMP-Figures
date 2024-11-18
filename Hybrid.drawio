@@ -779,7 +779,7 @@
           <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RQP4UaDVUN7FKSA59rx9-512" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.30833333333333335;arrowSize=0.4666666666666667;fillColor=#000000;fontColor=#333333;strokeColor=#666666;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="850" y="872" width="60" height="90" as="geometry" />
+          <mxGeometry x="848.33" y="870.33" width="61.33" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
